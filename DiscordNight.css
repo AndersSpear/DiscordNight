@@ -80,6 +80,7 @@
 	--brand-experiment-560: var(--bd-blue-hover);
 	--brand-experiment-600: var(--bd-blue-active);
 	
+	--background-image: url(https://images4.alphacoders.com/123/1231205.jpg);
 	--background-primary: #111111;									/* #36393F */
 	--background-secondary: #161616;								/* #2F3136 */
 	--background-tertiary: #191919;									/* #202225 */
